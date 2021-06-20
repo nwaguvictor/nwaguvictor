@@ -1,6 +1,6 @@
-## Hi 👋, I'm Victor
+## Hi 👋, I'm Victor Nwagu
 
-### Software Engineer
+### A Software Engineer
 
 <p>🔭 I’m currently working on earth😃</p>
 <p>🌱 I’m currently improving</p>
