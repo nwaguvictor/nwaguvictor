@@ -4,7 +4,7 @@
 
 <p>🔭 I’m currently working on earth😃</p>
 <p>🌱 I’m currently improving</p>
-<p>👯 I’m looking to make impacts</p>
+<p>👯 I’m looking to make impacts.</p>
 <hr />
 
 
