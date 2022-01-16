@@ -4,8 +4,6 @@
 
 ### » Node.js  » Typescript  » MongoDB » API Development » Backend Web Development » Socket.io » React.js  » SQL  » Jest
 
-
-<p>🔭 I</p>
 <p>🌱 Web3 enthusiast</p>
 <p>👯 I’m looking to make impacts.</p>
 <hr />
