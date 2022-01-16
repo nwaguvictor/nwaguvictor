@@ -1,6 +1,6 @@
-## Hi 👋, I'm Victor Nwagu
+# Hi 👋, I'm Victor Nwagu
 
-### A Backend Developer
+## A Backend Developer
 
 ### » Node.js  » Typescript  » MongoDB » API Development » Backend Web Development » Socket.io » React.js  » SQL  » Jest
 
