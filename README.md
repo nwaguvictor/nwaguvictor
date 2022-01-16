@@ -1,6 +1,9 @@
 ## Hi 👋, I'm Victor Nwagu
 
-### A Software Engineer
+### A Backend Developer
+
+### » Node.js  » Javascript  » MongoDB  » Socket.io  » React.js  » SQL  » Jest » API Development » Backend Web Development
+
 
 <p>🔭 I’m currently working on earth😃</p>
 <p>🌱 I’m currently improving</p>
