@@ -2,7 +2,7 @@
 
 ### A Backend Developer
 
-### » Node.js  » Javascript  » MongoDB  » Socket.io  » React.js  » SQL  » Jest » API Development » Backend Web Development
+### » Node.js  » Typescript  » MongoDB » API Development » Backend Web Development » Socket.io » React.js  » SQL  » Jest
 
 
 <p>🔭 I’m currently working on earth😃</p>
