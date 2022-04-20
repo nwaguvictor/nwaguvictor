@@ -1,6 +1,6 @@
-# Hi 👋, I'm Victor Nwagu
+# Hi 👋, It's Victor, you wanna know the endpoint?
 
-## A Backend Developer
+## I'm a Software Developer, specializes more on writing RESTful APIs for web and mobile Applications, 
 
 ### » Node.js  » Typescript  » MongoDB 
 ### » Socket.io » React.js  » SQL  » Jest
