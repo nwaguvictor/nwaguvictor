@@ -1,10 +1,12 @@
-# Hi 👋, It's Victor, you wanna know the endpoint?
+# Hi 👋, It's Victor, 
 
-## I'm a Software Developer, specializes more on writing RESTful APIs for web and mobile Applications, 
+## you wanna know the endpoint?
+
+## I'm a Software Developer, that specializes more on writing RESTful APIs for web and mobile Applications, 
 
 ### » Node.js  » Typescript  » MongoDB 
 ### » Socket.io » React.js  » SQL  » Jest
-### » API Development » Backend Web Development 
+### » API Development » Backend Web Development
 
 <p>🌱 Web3 enthusiast</p>
 <p>👯 I’m looking to make impacts.</p>
