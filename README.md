@@ -18,6 +18,7 @@
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwaguvictor&show_icons=true&theme=shades-of-purple&count_private=true&hide=contribs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/nwaguvictor/github-readme-stats)
 
 
 
