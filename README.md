@@ -8,7 +8,7 @@
 ### » Socket.io » React.js  » SQL  » Jest
 ### » API Development » Backend Web Development
 
-<p>🌱 Web3 enthusiast</p>
+<p>🌱 Simple but yet efficient enough</p>
 <p>👯 I’m looking to make impacts.</p>
 <hr />
 
