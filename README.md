@@ -1,6 +1,6 @@
 # Hi 👋, It's Victor, 
 
-## In the beginning 👇🏻
+## Let's get to know 👇🏻
 
 ## I'm a Software Developer, that specializes more on writing RESTful APIs for web and mobile Applications, 
 
