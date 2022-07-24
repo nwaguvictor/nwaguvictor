@@ -1,16 +1,21 @@
-# Hi 👋, It's Victor, 
+# Hi 👋, I'm Victor, from Enugu, Nigeria
 
 ## Let's get to know me👇🏻
 
-## I'm a Software Developer, that specializes more on writing RESTful APIs for web and mobile Applications, 
+## A Software Developer, that specializes more on writing RESTful APIs for web and mobile Applications, 
 
 ### » Node.js  » Typescript  » MongoDB 
 ### » Socket.io » React.js  » SQL  » Jest
 ### » API Development » Backend Web Development
 
-<p>🌱 Simple but yet efficient enough</p>
+<p>🌱 I like it simple but yet efficient enough</p>
 <p>👯 I’m looking to make impacts.</p>
 <hr />
+
+#### Hobbies
+-- Playing Football
+-- Gaming
+-- Swimming
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaguvictor&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
