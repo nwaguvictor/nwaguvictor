@@ -1,14 +1,7 @@
 # Hi 👋, I'm Victor, from Enugu, Nigeria
 
-## Let's get to know me👇🏻
+## I'm Software Developer, that specializes more on writing RESTful APIs for web and mobile Applications
 
-## A Software Developer, that specializes more on writing RESTful APIs for web and mobile Applications, 
-
-### » Node.js  » Typescript  » MongoDB 
-### » Socket.io » React.js  » SQL  » Jest
-### » API Development » Backend Web Development
-
-<p>🌱 I like it simple but yet efficient enough</p>
 <p>👯 I’m looking to make impacts.</p>
 <hr />
 
