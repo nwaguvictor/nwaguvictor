@@ -13,9 +13,9 @@
 <hr />
 
 #### Hobbies
--- Playing Football
--- Gaming
--- Swimming
+- Playing Football
+- Gaming
+- Swimming
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaguvictor&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
