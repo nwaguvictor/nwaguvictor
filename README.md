@@ -1,11 +1,8 @@
 # Hi 👋, I'm Victor, from Enugu, Nigeria
 
-## I'm Software Developer, that specializes more on writing RESTful APIs for web and mobile Applications
+## Nice to meet you
 
-<p>👯 I’m looking to make impacts.</p>
-<hr />
-
-#### Hobbies
+### Let's have fun:
 - Playing Football
 - Gaming
 - Swimming
