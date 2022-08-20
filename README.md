@@ -1,4 +1,4 @@
-# Hi 👋, I'm Victor, from Enugu, Nigeria
+# Hi 👋, I'm Victor,
 
 ## Nice to meet you
 
