@@ -17,10 +17,5 @@ Building cool stuff, exploring new tech, and solving real-world problems with a 
 
 ---
 
-### My GitHub Stats  
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwaguvictor&show_icons=true&theme=shades-of-purple&count_private=true&hide=contribs)  
-
----
-
 Looking forward to connecting and creating amazing things together! 😊
 Let's win Together!💪
